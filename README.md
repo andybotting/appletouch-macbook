@@ -13,8 +13,8 @@ trackpad.
 It replaces the default settings with these values to reduce the see-saw or
 zig-zag nature of the trackpad by default
 
-#define ATP_FUZZ 0
-#define ATP_THRESHOLD 3
+```#define ATP_FUZZ 0
+#define ATP_THRESHOLD 3```
 
 The installation path may be specific to Arch Linux only, but the general
 concept should work on any distribution with kernel headers installed.
