@@ -1,0 +1,11 @@
+*.[oas]
+.*.flags
+*.ko
+.*.cmd
+.*.d
+.*.tmp
+*.mod.c
+appletouch.c
+.tmp_versions
+Module.symvers
+modules.order
